@@ -1,5 +1,6 @@
 {
     "name": "音で操作-Maqueen",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
